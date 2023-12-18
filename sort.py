@@ -5,7 +5,6 @@ import os
 import shutil
 import time
 
-print(sys.argv)
 files_list = {'images':('.jpeg', '.png', '.jpg', '.svg'),
     'videos':('.avi', '.mp4', '.mov', '.mkv'),
     'documents':('.doc', '.docx', '.txt', '.pdf', '.xlsx', '.pptx'),
